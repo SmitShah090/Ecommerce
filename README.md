@@ -1,7 +1,6 @@
 # React Ecommerce Project
 
 
-
 # Work Under Progress
       An E commerce platform made using React JS, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
       The application is composed of the following Features:
