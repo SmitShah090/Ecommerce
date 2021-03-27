@@ -29,3 +29,8 @@
       Babel - A transpiler for javascript
       Webpack - A module bundler
       SCSS - A css metalanguage
+ # Authors:-
+      MN Raza
+      Smit Shah (SmitShah090)
+      
+      
